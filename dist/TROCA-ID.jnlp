@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="TROCA-ID.jar" size="233796" download="eager" />
+    <jar href="TROCA-ID.jar" size="235704" download="eager" />
     <jar href="lib\javafx-swt.jar" size="37129" download="eager" />
     <jar href="lib\javafx.base.jar" size="745854" download="eager" />
     <jar href="lib\javafx.controls.jar" size="2551599" download="eager" />
